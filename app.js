@@ -1,1 +1,1 @@
-console.log("hello worls ir'a raieJ")
+console.log("hello worls ir'a raiedsJ")
